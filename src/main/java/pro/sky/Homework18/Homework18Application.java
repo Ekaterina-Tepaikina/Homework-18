@@ -68,5 +68,4 @@ public class Homework18Application {
 		System.out.println(countAverageSalary());
 		FIO();
 	}
-
 }
